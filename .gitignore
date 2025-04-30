@@ -1,0 +1,14 @@
+# фронт
+store-frontend/node_modules/
+store-frontend/build/
+store-frontend/.env
+store-frontend/*.log
+
+# бэк
+store-backend/.env
+store-backend/*.log
+store-backend/vendor/
+
+# оба
+.env
+*.log
